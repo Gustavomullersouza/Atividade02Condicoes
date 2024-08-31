@@ -7,7 +7,7 @@ public class Atividade02Condicoes {
         int nota = 0;
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("Digite um nota: " );
+        System.out.println("Digite uma nota: " );
         nota = sc.nextInt();
 
         if (nota >= 9 )
