@@ -14,7 +14,5 @@ public class Atividade03Condicoes {
         } else
             System.out.println("O Numero é Impar");
 
-
-
     }
 }
