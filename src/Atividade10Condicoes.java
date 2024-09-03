@@ -23,9 +23,9 @@ public class Atividade10Condicoes {
 
         percentualdesconto = desconto / 100;
         valorDescontado = valorOriginal - desconto;
-        System.out.println("Valor Original: " + valorOriginal +
-                "O persentual de desconto é " + percentualdesconto +
-                "o valor do desconto é: " + desconto + "Valor final é: " + valorDescontado);
+        System.out.println("O valor original: " + valorOriginal +
+                " O persentual de desconto é " + percentualdesconto + "%"  +
+                " o valor do desconto é: " + desconto + " Valor final é: " + valorDescontado);
 
 
 
